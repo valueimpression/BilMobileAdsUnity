@@ -1,0 +1,13 @@
+{
+    "name": "com.valueimpression.bilmobileads",
+    "version": "1.0.0",
+    "displayName": "BilMobileAdsUnity",
+    "description": "ValueImpression is the trusted platform for premium publishers. Our patented proprietary advertising optimization technology has helped hundreds of publishers increase their revenue from 40 to 300%",
+    "unity": "2017.1",
+    "dependencies": {},
+    "author": {
+        "name": "ValueImpression",
+        "email": "info@valueimpression.com",
+        "url": "https://valueimpression.com/"
+    }
+}
